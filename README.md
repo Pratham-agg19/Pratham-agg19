@@ -85,3 +85,8 @@
 <a href="mailto:ansh1234agarwal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://pratham-agg19.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>
 </p>
+
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
