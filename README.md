@@ -65,7 +65,7 @@
 
 ### 🔹 **DOCPAT: Multi-Disease Prediction System**
 - Predicts *heart, liver, diabetes, Parkinson’s*  
-👉 <a href="https://github.com/Pratham-agg19/Doc-Pat-multiple-disease-prediction-model-"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+👉 <a href="https://github.com/Pratham-agg19/DOC-PAT"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ### 🔹 **Sales-Insights-Data-Analysis-Using-Power-BI** 
 👉 <a href="https://github.com/Pratham-agg19/Sales-Insights-Data-Analysis-Using-Power-BI"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
