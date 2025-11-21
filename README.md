@@ -60,7 +60,7 @@
 
 ---
 
-# 🚀 ** Major Projects**
+# 🚀 **Major Projects**
 
 
 ### 🔹 **DOCPAT: Multi-Disease Prediction System**
@@ -81,7 +81,7 @@
 
 # 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:yourEmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/prathamagarwal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/pratham-agarwal1902/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ansh1234agarwal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://pratham-agg19.github.io/Portfolio/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
